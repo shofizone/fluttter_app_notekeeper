@@ -2,9 +2,9 @@
 
 A new Flutter application.
 
-<img src="screenshots/Screenshot_1558209820.png" width="42">
-<img src="screenshots/Screenshot_1558209824.png" width="42">
-<img src="screenshots/Screenshot_1558209817.png" width="42">
+<img src="screenshots/Screenshot_1558209820.png" width="320">
+<img src="screenshots/Screenshot_1558209824.png" width="320">
+<img src="screenshots/Screenshot_1558209817.png" width="320">
 
 ## Getting Started
 
